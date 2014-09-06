@@ -10,4 +10,7 @@
 
 @interface YinYangViewController : UIViewController
 
+-(void)toggleYang:(id)sender;
+-(void)toggleYin:(id)sender;
+
 @end
